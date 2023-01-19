@@ -7,7 +7,7 @@ keywords = ["rust", "github", "advent-of-code", "2022", "competition"]
 description = "Advent of Code 2022"
 showFullContent = false
 readingTime = true
-draft = true
+draft = false
 +++
 
 With 2022 being my introduction to Advent of Code, I knew I would have to complete the challenge.
