@@ -1,3 +1,7 @@
 .typeit {
 	font-family: var(--code-font-family);
 }
+
+.qr {
+	width: 25em;
+}

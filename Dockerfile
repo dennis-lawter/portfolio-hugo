@@ -1,13 +1,16 @@
-FROM nginx:alpine as build
+FROM debian:bullseye-slim as build
 
-RUN apk add --update \
-    wget
-    
-ARG HUGO_VERSION="0.72.0"
-RUN wget --quiet "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" && \
-    tar xzf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz && \
-    rm -r hugo_${HUGO_VERSION}_Linux-64bit.tar.gz && \
-    mv hugo /usr/bin
+ENV DEBIAN_FRONTEND noninteractive
+ENV DEBCONF_NOWARNINGS="yes"
+
+# Update packages
+RUN apt-get update
+RUN apt-get upgrade -y
+
+# Get dependencies
+RUN apt-get install wget -y
+RUN apt-get install git -y
+RUN apt-get install hugo -y
 
 COPY ./ /site
 WORKDIR /site
