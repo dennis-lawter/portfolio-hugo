@@ -18,7 +18,7 @@ enableGitInfo = true
         identifier = "posts"
         pre = ""
         post = ""
-        name = "Posts"
+        name = "Projects"
         url = "/posts/"
         title = ""
       [[languages.en.menu.main]]
