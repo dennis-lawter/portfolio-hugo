@@ -1,6 +1,6 @@
 +++
 title = "Advent of Code 2022"
-#date = 2023-01-18T23:37:59-05:00
+date = 2023-01-18T23:37:59-05:00
 author = "Dennis Lawter"
 tags = ["rust", "github", "advent-of-code"]
 keywords = ["rust", "github", "advent of code", "2022", "competition"]

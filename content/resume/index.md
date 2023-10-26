@@ -76,50 +76,18 @@ Society memberships:
 ## Skills
 
 ### Programming Languages
-- PHP
-- Python
-- Javascript
-- Rust
-- C++
-- C
-- Java
-- SQL (MySQL, T-SQL, PostgreSQL)
-- R
+PHP, Python, Javascript, Rust, C++, C, Java, SQL (MySQL, T-SQL, PostgreSQL), R
 
 ### Development Methods
-- Functional Programming
-- Object Oriented Design
-- Agile & Scrum Development
-- Test-Driven Development
-- Continuous Integration
-- RESTful Architecture
+Functional Programming, Object Oriented Design, Agile & Scrum Development, Test-Driven Development, Continuous Integration, RESTful Architecture
 
 ### Software and Tools
 #### Operating Systems
-- Microsoft Windows
-- Windows Server
-- Debian Linux
-- FreeBSD
-- Macintosh OSX
+Microsoft Windows, Windows Server, Debian Linux, FreeBSD, Macintosh OSX
 #### Project Management
-- Git
-- Subversion
-- Cargo
-- Maven
-- Jenkins
-- Jira
-- Confluence
-- Trello
+Git, Subversion, Cargo, Maven, Jenkins, Jira, Confluence, Trello
 #### Frameworks
-- Laravel
-- Yii 1.1 and Yii 2
-- Rocket
-- Django
-- jQuery
-- SOAP
-- SDL
-- SFML
-- OpenGL
+Axium, Poem, Rocket, Laravel, Yii 1.1 and Yii 2, Django, jQuery, SOAP, SDL, SFML, OpenGL
 #### Miscellaneous Software
 - Kubernetes, Docker Compose, and Docker
 - SAP, Epicor
