@@ -11,6 +11,9 @@ draft = false
 
 # Dennis Lawter
 
+## API
+The newest version of this document is available via [API](https://api.dennislawter.me)
+
 ## Contact Information
 - Email: [dennis.lawter@gmail.com](mailto:dennis.lawter@gmail.com)
 - LinkedIn: [www.linkedin.com/in/dennislawter/](https://www.linkedin.com/in/dennislawter/)
