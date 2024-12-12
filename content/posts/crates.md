@@ -8,6 +8,7 @@ description = "Collection of my cargo crates"
 showFullContent = false
 readingTime = true
 draft = false
+weight = 100
 +++
 
 # My Crates

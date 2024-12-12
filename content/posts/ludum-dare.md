@@ -8,6 +8,7 @@ description = "Ludum Dare"
 showFullContent = false
 readingTime = true
 draft = false
+weight = 200
 +++
 
 Video game development has been a passion of mine since I first began programming.

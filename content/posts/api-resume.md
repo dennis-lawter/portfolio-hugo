@@ -8,6 +8,7 @@ description = "I've rebuilt my resume as a Rust API"
 showFullContent = false
 readingTime = true
 draft = false
+weight = 200
 +++
 
 # API Resume
